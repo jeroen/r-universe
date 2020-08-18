@@ -2,6 +2,10 @@
   {
     "package" : "jsonlite",
     "url" : "https://github.com/jeroen/jsonlite"
+  },
+  {
+    "package" : "curl",
+    "url" : "https://github.com/jeroen/curl"
   }
 ]
 
