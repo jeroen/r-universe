@@ -4,8 +4,12 @@
     "url" : "https://github.com/jeroen/jsonlite"
   },
   {
-    "package" : "magick",
-    "url" : "https://github.com/ropensci/magick"
+    "package" : "tesseract",
+    "url" : "https://github.com/ropensci/tesseract"
+  },
+  {
+    "package" : "jose",
+    "url" : "https://github.com/jeroen/jose"
   }
 ]
 
