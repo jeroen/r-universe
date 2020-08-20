@@ -10,6 +10,10 @@
   {
     "package" : "jose",
     "url" : "https://github.com/jeroen/jose"
+  },
+  {
+    "package" : "curl",
+    "url" : "https://github.com/jeroen/curl"
   }
 ]
 
