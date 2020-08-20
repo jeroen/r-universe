@@ -4,8 +4,8 @@
     "url" : "https://github.com/jeroen/jsonlite"
   },
   {
-    "package" : "curl",
-    "url" : "https://github.com/jeroen/curl"
+    "package" : "magick",
+    "url" : "https://github.com/ropensci/magick"
   }
 ]
 
